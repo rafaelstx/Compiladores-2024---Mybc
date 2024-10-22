@@ -1,14 +1,26 @@
-# Compiladores 2024
-Neste reposítorio estarão disponíveis todas as versões do Mybc das aulas de compiladores
+# 🌟 Compiladores 2024
 
-Cada versão representa uma mudança,sendo elas:
+Neste repositório, estarão disponíveis todas as versões do **Mybc** das aulas de compiladores.
 
-V1: Adição das função isDec, isHex,isOct e isFloat , retornando se o token é um número decimal,octal, hexadecimal ou float
+## 📚 Versões do Mybc
 
-V2: Adaptar parser para gramática EBNF e Implementada a possibilidade do lexer ignorar comentário Pascal
+Cada versão representa uma mudança significativa, sendo elas:
 
-V3: Implementação do Lexeme, que permite ao compilador não apenas retornar o tipo do token, mas também o conteúdo, que será usado para analisse sintática e semântica no futuro e Adaptação para a gramática EBNF estendida
+### 🚀 V1
+- **Adição das funções**: `isDec`, `isHex`, `isOct` e `isFloat`
+- Retorna se o token é um número decimal, octal, hexadecimal ou float.
 
-V4: Implementação do código efetivo na gramática EBNF para análise semântica
+### 🚀 V2
+- **Adaptar parser para gramática EBNF**
+- Implementação da possibilidade do lexer ignorar comentários em Pascal.
 
-V5: Código final limpo e comentado
+### 🚀 V3
+- **Implementação do Lexeme**: permite ao compilador não apenas retornar o tipo do token, mas também o conteúdo, que será usado para análise sintática e semântica no futuro.
+- Adaptação para a gramática EBNF estendida.
+
+### 🚀 V4
+- **Implementação do código efetivo** na gramática EBNF para análise semântica.
+
+### 🚀 V5
+- **Código final limpo e comentado**.
+
