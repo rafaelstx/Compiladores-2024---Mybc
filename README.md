@@ -1,4 +1,4 @@
-# 🌟 Compiladores 2024
+# Compiladores 2024
 
 Neste repositório, estarão disponíveis todas as versões do **Mybc** das aulas de compiladores.
 
